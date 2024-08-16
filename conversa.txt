@@ -1,0 +1,21 @@
+Atendente: Olá, aqui é o suporte do Discord. Como posso ajudar hoje?
+
+Cliente: Olha, eu estou muito bravo. O Rickzin não fez o trabalho dele direito e eu fiquei na mão com a venda que ele prometeu!
+
+Atendente: Entendo, senhor. Peço desculpas por essa situação. Poderia me dar mais detalhes sobre o que aconteceu exatamente? Quero garantir que possamos resolver isso da melhor forma possível.
+
+Cliente: Eu comprei um pacote de itens lá no servidor, e o Rickzin que era o responsável por me entregar. Só que até agora nada! Paguei e fiquei sem nada. Eu mandei mensagem, esperei horas, e ele só me ignorou. Isso é um absurdo!
+
+Atendente: Compreendo sua frustração, realmente não é o tipo de experiência que queremos oferecer. Vou verificar com o Rickzin para entender o que houve e garantir que você receba os itens que comprou. Posso pedir que você me passe o número do seu pedido ou algum outro detalhe para agilizar a busca?
+
+Cliente: Número do pedido é 12345, e isso já deveria ter sido resolvido. Eu estou furioso! Quero que isso seja corrigido agora e que o Rickzin sofra as consequências. Não dá pra confiar desse jeito.
+
+Atendente: Vou tratar disso imediatamente, senhor. Vou contatar o Rickzin agora mesmo para entender a situação e garantir que seus itens sejam entregues o mais rápido possível. Além disso, vamos investigar o caso e tomar as devidas providências para que isso não aconteça novamente. Peço desculpas pelo transtorno e agradeço pela paciência.
+
+Cliente: Tudo bem, mas espero que resolvam isso rápido. Já passei tempo demais esperando.
+
+Atendente: Com certeza. Eu vou te manter informado sobre o progresso e faremos de tudo para resolver isso o quanto antes. Mais uma vez, peço desculpas pelo ocorrido e agradeço por trazer isso à nossa atenção.
+
+Cliente: Ok. Vou esperar a resposta então. Mas, por favor, não demore!
+
+Atendente: Entendido nada, você é rídiculo 
